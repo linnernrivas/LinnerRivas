@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/LinnerPage.csproj": {}
+    "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/LinnerPage.csproj": {}
   },
   "projects": {
-    "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/LinnerPage.csproj": {
+    "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/LinnerPage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/LinnerPage.csproj",
+        "projectUniqueName": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/LinnerPage.csproj",
         "projectName": "LinnerPage",
-        "projectPath": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/LinnerPage.csproj",
+        "projectPath": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/LinnerPage.csproj",
         "packagesPath": "/Users/linnerrivas/.nuget/packages/",
-        "outputPath": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/obj/",
+        "outputPath": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

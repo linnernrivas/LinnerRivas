@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/LinnerPage.csproj",
+  "FilePath": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/LinnerPage.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20501,38 +20501,38 @@
   "RootNamespace": "LinnerPage",
   "Documents": [
     {
-      "FilePath": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/Pages/Shared/_Layout.cshtml",
-      "TargetPath": "Pages/Shared/_Layout.cshtml",
+      "FilePath": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/Pages/Index.cshtml",
+      "TargetPath": "Pages/Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages/Shared/_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/Pages/_ViewStart.cshtml",
-      "TargetPath": "Pages/_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/Pages/Error.cshtml",
-      "TargetPath": "Pages/Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/Pages/Privacy.cshtml",
+      "FilePath": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/Pages/Privacy.cshtml",
       "TargetPath": "Pages/Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/Pages/_ViewImports.cshtml",
-      "TargetPath": "Pages/_ViewImports.cshtml",
+      "FilePath": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages/Shared/_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/linnerrivas/Desktop/Desktop - Linner’s MacBook Pro/Websites/LinnerPage/Pages/Index.cshtml",
-      "TargetPath": "Pages/Index.cshtml",
+      "FilePath": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/Pages/Error.cshtml",
+      "TargetPath": "Pages/Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages/_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/linnerrivas/Desktop/LinnerRivas/LinnerRivas/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages/_ViewImports.cshtml",
       "FileKind": "mvc"
     }
   ],
